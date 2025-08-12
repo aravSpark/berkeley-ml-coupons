@@ -32,6 +32,8 @@ Targeting frequent bar visitors will likely increase acceptance rate of bar coup
 
 **Analysis of coffee coupon:**
 
+![Coffee Coupon Acceptance by Context and Demographics](images/coffee_acceptance_subplots.png)
+
 - Overall acceptance of Coffee House coupon is 50%, slightly higher than the 41% acceptance of bar coupons
 - Drivers who visit coffee house at least once a month have higher acceptance rate compared to those who never visit.
 - Increasing visit frequency beyond once a month does not significantly increase acceptance
@@ -39,7 +41,7 @@ Targeting frequent bar visitors will likely increase acceptance rate of bar coup
   - 4 to 8 times 69%
   - More than 8 time:66%
 - Weather and temperature show minimal impact on acceptance rate
-- Destination has an impact on acceptance -
+- Destination has an impact on acceptance 
    - Without urgency show higher acceptance (58%)
    - Heading home (36%)
    - Heading to work (45%)
