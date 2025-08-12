@@ -32,6 +32,8 @@ Targeting frequent bar visitors will likely increase acceptance rate of bar coup
 
 **Analysis of coffee coupon:**
 
+![Coffee Coupon Acceptance by Frequency of Visits](images/Coffee_Coupon_Acceptance_by_Frequency_of_Visit.png)
+
 ![Coffee Coupon Acceptance by Context and Demographics](images/coffee_acceptance_subplots.png)
 
 - Overall acceptance of Coffee House coupon is 50%, slightly higher than the 41% acceptance of bar coupons
